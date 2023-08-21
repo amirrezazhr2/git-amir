@@ -3,3 +3,11 @@ two
 three
 four
 
+<<<<<<< Updated upstream
+=======
+three
+
+five
+
+seven
+>>>>>>> Stashed changes
