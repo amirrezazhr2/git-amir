@@ -1,2 +1,4 @@
 squre
 trangle
+circle
+beizi
