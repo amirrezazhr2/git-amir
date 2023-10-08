@@ -6,23 +6,4 @@ five
 seven
 eight
 nine
-ten
 
-one 
-two
-three
-four
-five
-seven
-eight
-nine
-ten
-one 
-two
-three
-four
-five
-seven
-eight
-nine
-ten
